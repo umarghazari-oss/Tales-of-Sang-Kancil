@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  - Game Manager
+  - Obstacle
+  - Crocodile
+  - Barrier
+  - Plant
+  - Guava Tree
+  - FirstCam
+  - Lilypad
+  - Cucumber
+  - Sang Kancil
+  - Death Zone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Platform
+  - Water
+  - UI
+  - Barrier
+  - Cucumbers
+  - Obstacle
+  - Death Zone
+  - Nodes
+  - Kancil
+  - Dogs
+  - Win Zone
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: River
+    uniqueID: 3266006207
+    locked: 0
+  - name: Plant
+    uniqueID: 1392500571
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default
